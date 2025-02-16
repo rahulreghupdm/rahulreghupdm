@@ -6,9 +6,9 @@
 -  👯 I’m looking to collaborate on:
    Fullstack projects
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Kubernetes,SwiftUI**
 
-- 💬 Ask me about **Flutter,React js,Kotilin**
+- 💬 Ask me about **Flutter,Django,FastAPI,Docker**
 
 - 📫 How to reach me **rahulreghupdm@gmail.com**
 
